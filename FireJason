@@ -1104,7 +1104,7 @@ Accessories = {
 -- Revenant
 { Name = "Reanimate_Machete",  MeshId = "5548423017", TextureId = "5548423938", Offset = CFrame.Angles(Rad(135), Rad(0), Rad(0)) },
 { Name = "Reanimate_Chainsaw",  MeshId = "7547179386", TextureId = "7547152243", Offset = CFrame.new(-0.1, 0.1, -0.5) * CFrame.Angles(Rad(90),  Rad(0), Rad(-45)) },
-{ Name = "Reanimate_Dummy",  MeshId = "12495661615", TextureId = "12495666203", Offset = CFrame.Angles(0, Rad(180), 0) },
+{ Name = "Reanimate_Dummy",  MeshId = "138168756098366", TextureId = "138059494752404", Offset = CFrame.Angles(0, Rad(180), 0) },
 },
 ApplyDescription = true,
 BreakJointsDelay = 0.255,
